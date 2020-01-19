@@ -1,4 +1,4 @@
 # Bookshelf
 
     Author: Phan Thanh Tung
-    Preference: Bui Ngo Ton Bach
+    Instructor: Bui Ngo Ton Bach
